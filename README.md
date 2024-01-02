@@ -1,1 +1,12 @@
-# NerdWiki
+# Social Media Tools 
+- [Gif Maker and Editor](https://ezgif.com/video-to-gif)
+- [Remove Image Background](https://www.remove.bg/upload)
+- [Remove Gif Background](https://onlinegiftools.com/remove-gif-background)
+- [Canva Image Editor](https://www.canva.com/)
+- [Capcut Video Editor](https://www.capcut.com/my-edit)
+- [Twitch Vids Batch Download](https://www.twitchanz.com/)
+- [Tiktok Vid Downloader Without Watermark](https://snaptik.app/)
+- [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/)
+- []()
+- []()
+- []()

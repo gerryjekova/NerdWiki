@@ -7,6 +7,6 @@
 - [Twitch Vids Batch Download](https://www.twitchanz.com/)
 - [Tiktok Vid Downloader Without Watermark](https://snaptik.app/)
 - [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/)
-- []()
+- [Upscale Images](https://imgupscaler.com/)
 - []()
 - []()

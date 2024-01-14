@@ -11,4 +11,4 @@
 - [Icons](https://www.flaticon.com/)
 - [Color Palletes](https://colorhunt.co/)
 - [Bitly for Shortening Urls](https://app.bitly.com/)
-- # [Github Profile Home - NEW](https://github.com/NqmaNazad)
+- ### [Github Profile Home - NEW](https://github.com/NqmaNazad)

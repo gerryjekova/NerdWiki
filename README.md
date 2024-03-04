@@ -16,4 +16,6 @@
 - [Adobe Audio Enchancer](https://podcast.adobe.com/)
 - [Audio Trimmeer Online](https://audiotrimmer.com/)
 - [Hex Color](https://www.google.com/search?q=hex+color&oq=hex+color&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTI5MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
+- [Eklipse Automatic Clip Maker](https://studio.eklipse.gg/)
+- [Cutlabs Auto Stream Clips + Captions + Vertical too](https://cutlabs.ai/)
 - ### [Github Profile Home - NEW](https://github.com/NqmaNazad)

@@ -18,4 +18,5 @@
 - [Hex Color](https://www.google.com/search?q=hex+color&oq=hex+color&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTI5MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
 - [Eklipse Automatic Clip Maker](https://studio.eklipse.gg/)
 - [Cutlabs Auto Stream Clips + Captions + Vertical too](https://cutlabs.ai/)
+- [Decent Translator For Clean Text (Actually Safe to Rely on in MOST Cases if you not Trolling)](https://www.deepl.com/)
 - ### [Github Profile Home - NEW](https://github.com/NqmaNazad)

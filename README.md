@@ -1,22 +1,23 @@
 # Social Media Tools 
-- [Gif Maker and Editor](https://ezgif.com/video-to-gif)
-- [Remove Image Background](https://www.remove.bg/upload)
-- [Remove Gif Background](https://www.unscreen.com/upload)
-- [Canva Image Editor](https://www.canva.com/)
-- [Capcut Video Editor](https://www.capcut.com/my-edit)
-- [Twitch Vids Batch Download](https://www.twitchanz.com/)
-- [Tiktok Vid Downloader Without Watermark](https://snaptik.app/)
-- [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/)
-- [Upscale Images](https://imgupscaler.com/)
-- [Icons](https://www.flaticon.com/)
-- [Color Palletes](https://colorhunt.co/)
-- [Bitly for Shortening Urls](https://app.bitly.com/)
-- [Twitch Clip Downloader](https://clipr.xyz/)
-- [Youtube to Mp3](https://ytmp3.nu/CNtD/)
-- [Adobe Audio Enchancer](https://podcast.adobe.com/)
-- [Audio Trimmeer Online](https://audiotrimmer.com/)
-- [Hex Color](https://www.google.com/search?q=hex+color&oq=hex+color&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTI5MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
-- [Eklipse Automatic Clip Maker](https://studio.eklipse.gg/)
-- [Cutlabs Auto Stream Clips + Captions + Vertical too](https://cutlabs.ai/)
-- [Decent Translator For Clean Text (Actually Safe to Rely on in MOST Cases if you not Trolling)](https://www.deepl.com/)
-- ### [Github Profile Home - NEW](https://github.com/NqmaNazad)
+- [Gif Maker and Editor](https://ezgif.com/video-to-gif){:target="_blank"}
+- [Remove Image Background](https://www.remove.bg/upload){:target="_blank"}
+- [Remove Gif Background](https://www.unscreen.com/upload){:target="_blank"}
+- [Canva Image Editor](https://www.canva.com/){:target="_blank"}
+- [Capcut Video Editor](https://www.capcut.com/my-edit){:target="_blank"}
+- [Twitch Vids Batch Download](https://www.twitchanz.com/){:target="_blank"}
+- [Tiktok Vid Downloader Without Watermark](https://snaptik.app/){:target="_blank"}
+- [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/){:target="_blank"}
+- [Upscale Images](https://imgupscaler.com/){:target="_blank"}
+- [Icons](https://www.flaticon.com/){:target="_blank"}
+- [Color Palletes](https://colorhunt.co/){:target="_blank"}
+- [Bitly for Shortening Urls](https://app.bitly.com/){:target="_blank"}
+- [Twitch Clip Downloader](https://clipr.xyz/){:target="_blank"}
+- [Youtube to Mp3](https://ytmp3.nu/CNtD/){:target="_blank"}
+- [Adobe Audio Enchancer](https://podcast.adobe.com/){:target="_blank"}
+- [Audio Trimmeer Online](https://audiotrimmer.com/){:target="_blank"}
+- [Hex Color](https://www.google.com/search?q=hex+color&oq=hex+color&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTI5MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8){:target="_blank"}
+- [Eklipse Automatic Clip Maker](https://studio.eklipse.gg/){:target="_blank"}
+- [Cutlabs Auto Stream Clips + Captions + Vertical too](https://cutlabs.ai/){:target="_blank"}
+- [Decent Translator For Clean Text (Actually Safe to Rely on in MOST Cases if you not Trolling)](https://www.deepl.com/){:target="_blank"}
+- ### [Github Profile Home - NEW](https://github.com/NqmaNazad){:target="_blank"}
+> ```- [](){:target="_blank"}```

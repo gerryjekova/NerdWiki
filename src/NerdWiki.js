@@ -101,7 +101,8 @@ const NerdWiki = (function () {
             return this.createElement(
                 'div',
                 {class: 'link-section__item'},
-                this.createElement('a', {class: 'link-section__item-link', href: url}, title),
+                // Add `target: '_blank'` to open the link in a new tab
+                this.createElement('a', {class: 'link-section__item-link', href: url, target: '_blank'}, title),
                 copyButton,
             );
         };
